@@ -1,4 +1,4 @@
-# Associative Theory
+# Associative Theory - Work in progress
 
 Humans tend to do everything through relationships. These relationships are formed with all objects that humans interact with. These relationships, if they yield some utility, are built over time. Human relationships are complicated as they are formed from various data inputs such as video, audio, texture, smell, taste and internal chemical composition ("feeling"). All of these inputs are meshed together and encoded in a (on average) lossy format. 
 
