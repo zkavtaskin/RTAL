@@ -10,15 +10,13 @@ For reasons not fully known, encodings are stored for different lengths of time.
 
 ## Inference
  
-Intelligent actors infer through established association boundaries. Inference types fall into the following classes: deduction, induction and abduction. It is believed that intelligent actors tend to use abduction and induction by default for inference.
+Intelligent actors infer through established association boundaries. Establsuhed inference types fall into the following classes: deduction, induction and abduction. It is believed that intelligent actors tend to use automatic induction (unconscious probabilistic generalization) and abduction (most likely available explanation at hand). These default modes of inference are limited due to intelligent actors' limited association boundaries. However, these quick and dirty techniques have allowed intelligent actors to survive in normally distributed environments for a very long period.
  
-It is believed that intelligent actors tend to use automatic induction (unconscious probabilistic generalization) and abduction (most likely available explanation at hand). These default modes of inference are limited due to intelligent actors' limited association boundaries. However, these quick and dirty techniques have allowed intelligent actors to survive in normally distributed environments for a very long period.
+Intelligent actors also use deduction (establishing logical conclusion based on logically true statements). Conscious deduction is the slowest type of inference as it requires intelligent actor's active participation to build a "logical chain".
  
-Intelligent actors also use deduction (establishing logical conclusion based on logically true statements). Conscious deduction is the slowest type of inference as it requires intelligent agents' active participation to build a "logical chain".
+It is not clear if intelligent actors cognition actually handles these three methods of inference differently, it is probabilistically unlikely that this is the case as these are artifical concepts. It is more likely that intelligent actors' cognition uses the same model for all reasoning; the only difference is actors' conscious participation.
  
-It is not clear if intelligent actors cognition actually handles these three methods of inference differently, it is probabilistically unlikely that this is the case. It is more likely that intelligent actors' cognition uses the same model for all reasoning; the only difference is actors' conscious participation.
- 
-Intelligent actors most likely use deduction with faulty premises. This faulty type of deduction auto corrects and converges to an actual "relatively correct deduction" as intelligent actors probe their environment, gather more data and update and expand their associations. 
+It is authors hypothesis that intelligent actors most likely use deduction with faulty premises. This faulty type of deduction auto corrects and converges to an actual "relatively correct deduction" as intelligent actors probe their environment, gather more data and update and expand their associations. 
 
 > Citations are required.
 
