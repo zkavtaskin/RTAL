@@ -12,6 +12,11 @@ Intelligent actors associations are subjective as they are "unique" to the actor
  
 It is not clear if associations graph when traversed passively (without inference search) by an intelligent actor provides experience of a memory. Of if there is also a deeper memory storage at play. The project's hypothesis is that the association graph itself acts like a memory. This would also explain why it is possible to change a memory or make memory "weaker" by recalling it too often. 
 
+## Fractal Graph and Emergence (global, local and across layers connectivity)
+This project's hypothesis is that the association graph will follow specific rules and as a result form a fractal graph. By selecting the most appropriate graph specification (through testing), fractal graph should emerge that will provide encoding of associations that will power further associations and inference.
+
+> It is interesting to note associations might be going through an incubation period, where local associations are created through trial and error. Only after a while they are then connected more broadly with the rest of the graph.
+
 ## Inference (reasoning through the directed graph)
 Intelligent actors infer through established association boundaries. Established inference types fall into the following classes: deduction, induction and abduction. It is believed that intelligent actors tend to use automatic induction (unconscious probabilistic generalization) and abduction (most likely available explanation at hand). These default modes of inference are limited due to intelligent actors' limited association boundaries. However, these quick and dirty techniques have allowed intelligent actors to survive in normally distributed environments for a very long period.
  
@@ -24,10 +29,6 @@ It is project's hypothesis that intelligent actors use deduction with faulty pre
 It is not clear at this point if abstraction is built into intelligent actors cognition or if it is an emergent phenomenon. At the time of writing the working hypothesis that it is an emergent property.
 
 > Citations are required.
-
-## Fractal Emergence    
-This project's hypothesis is that the association graph is a form of a fractal. Due to this initial configuration of how data will be stored in a fractal graph will have significant repercussions.
-
 
 ## Links:
 * (Emergence and Complexity)[https://www.youtube.com/watch?app=desktop&v=o_ZuWbX-CyE]
