@@ -1,4 +1,4 @@
-# Associative Theory - Work in progress
+# Theory - Work in progress
 This write up will refer to animals with various cognitive capacities as intelligent actors.
 
 ## Associations (encoding associations in a directed graph)
