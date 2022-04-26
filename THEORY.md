@@ -34,14 +34,13 @@ It is project's hypothesis that intelligent actors use deduction with faulty pre
 
 It is not clear at this point if abstraction is built into intelligent actors cognition or if it is an emergent phenomenon. At the time of writing the working hypothesis that it is an emergent property.
 
-## Routing
-Based on associations section it is possible to assume that memories are stored in some directed graph clusters as seen in figure 1. However as more data is stored 1) these clusters will overlap and 2) there needs to be a way to route from cluster to cluster if necessery. This section brings few concepts together by proposing a way of discovering where new inputs need to be recorded and how it can self organise for future inference and "memory recall".
+## Routing Hub
+Based on the associations section it is possible to assume that memories are stored in some directed graph clusters as seen in figure 1. However as more data is stored 1) these clusters will overlap and 2) there needs to be a way to route from cluster to cluster if necessary. This section brings a few concepts together by proposing a way of discovering where new inputs need to be recorded and how it can self organize for future inference and "memory recall".
+ 
+As graphs are created, common overlaps will be created. These overlaps are connected by a hub. This hub becomes a concept or an abstract representation of a thing and it acts like a router between memory clusters. Hubs also connect to hubs (possibly after incubation period), once hub becomes overloaded (too many routings) it splits giving way to more "clarity" on a concept.
+ 
+Memory is either stored in a cluster and then it is connected to a relevant hub. Or hub is discovered and then stored in real-time. Either way it needs to be connected to the hub. Hub is created for different inputs horizontally (see figure 1), however it is also likely that it is created vertically.
 
-### Storage
-...
-
-### Concept / Hub
-As graphs are created common overlaps will be created. These overlap are connected by a hub. This hub becomes a concept or an abstract representation of a thing and it acts like a router between memory clusters.
 
 ## Links:
 * (Spatial Neural Networks Based on Fractal Algorithms
