@@ -4,6 +4,8 @@ This write up will refer to animals with various cognitive capacities as intelli
 ## Associations (encoding associations in a directed graph)
 Intelligent actors tend to do everything through relationships. These relationships are formed with all objects that intelligent actors interact with. These relationships, if they yield some utility, are built over time. Intelligent actor's relationships are complicated as they are formed from various data inputs such as video, audio, texture, smell, taste and internal chemical composition ("feeling"). All of these inputs are meshed together and encoded in a (on average) lossy format.
  
+> It is wrong to assume that video input is just an image. How this video is encoded is critical as it needs to allow for discovery of light, texture, objects, space, shapes, etc. 
+
 This inputs mesh is stored as a form of a directed graph. Continuous input stream (time) gives the graph direction, as time reveals fuzzy cause and effect.
 
 ![](Artefacts/imgs/routing.jpg)
