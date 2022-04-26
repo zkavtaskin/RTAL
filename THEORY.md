@@ -6,6 +6,9 @@ Intelligent actors tend to do everything through relationships. These relationsh
  
 This inputs mesh is stored as a form of a directed graph. Continuous input stream (time) gives the graph direction, as time reveals fuzzy cause and effect.
 
+![](Artefacts/imgs/routing.jpg)
+(Figure 1)
+
 For reasons not fully known, encodings are stored for different lengths of time. One of the reasons that certain encodings might be stored for a longer period of time is due to how different the data input is. That is if data input is very different to previous data inputs it is stored for longer. However this is a simplification as there are many factors at play such as relative context of the data input, how often association is used and how many other associations link to this association. 
 
 Intelligent actors associations are subjective as they are "unique" to the actor and do not necessarily represent the actual "objective" reality that they operate in.
@@ -31,6 +34,13 @@ It is project's hypothesis that intelligent actors use deduction with faulty pre
 It is not clear at this point if abstraction is built into intelligent actors cognition or if it is an emergent phenomenon. At the time of writing the working hypothesis that it is an emergent property.
 
 ## Routing
+Based on associations section it is possible to assume that memories are stored in some directed graph clusters as seen in figure 1. However as more data is stored 1) these clusters will overlap and 2) there needs to be a way to route from cluster to cluster if necessery. This section brings few concepts together by proposing a way of discovering where new inputs need to be recorded and how it can self organise for future inference and "memory recall".
+
+### Storage
+...
+
+### Concept / Hub
+As graphs are created common overlaps will be created. These overlap are connected by a hub. This hub becomes a concept or an abstract representation of a thing and it acts like a router between memory clusters.
 
 ## Links:
 * (Spatial Neural Networks Based on Fractal Algorithms
