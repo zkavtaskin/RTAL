@@ -7,6 +7,7 @@ Intelligent actors tend to do everything through relationships. These relationsh
 This inputs mesh is stored as a form of a directed graph. Continuous input stream (time) gives the graph direction, as time reveals fuzzy cause and effect.
 
 ![](Artefacts/imgs/routing.jpg)
+
 (Figure 1)
 
 For reasons not fully known, encodings are stored for different lengths of time. One of the reasons that certain encodings might be stored for a longer period of time is due to how different the data input is. That is if data input is very different to previous data inputs it is stored for longer. However this is a simplification as there are many factors at play such as relative context of the data input, how often association is used and how many other associations link to this association. 
