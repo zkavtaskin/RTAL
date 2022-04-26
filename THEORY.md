@@ -10,25 +10,27 @@ For reasons not fully known, encodings are stored for different lengths of time.
 
 Intelligent actors associations are subjective as they are "unique" to the actor and do not necessarily represent the actual "objective" reality that they operate in.
  
-It is not clear if associations graph when traversed passively (without inference search) by an intelligent actor provides experience of a memory. Of if there is also a deeper memory storage at play. The project's hypothesis is that the association graph itself acts like a memory. This would also explain why it is possible to change a memory or make memory "weaker" by recalling it too often. 
+It is not clear if associations graph when traversed passively (without inference search) by an intelligent actor provides experience of a memory. Or if there is also a deeper memory storage at play. The project's hypothesis is that the association graph itself acts like a memory. This would also explain why it is possible to change a memory or make memory "weaker" by recalling it too often. 
 
 ## Fractal Graph and Emergence (global, local and cross layer connectivity)
 This project's hypothesis is that the association graph will follow specific rules and as a result form a fractal graph. By selecting the most appropriate graph specification (through testing), fractal graph should emerge that will provide encoding of associations that will power further associations and inference.
 
-> It is interesting to note associations might be going through an incubation period, where local associations are created through trial and error. Only after a while they are then connected globally with the rest of the graph. Additionally it is possible to create different type of problem solving intelligent agents depending on how it is wired.
+Associations might be going through an incubation period, where local associations are created through trial and error. Only after a while they are then connected globally (consolidated) with the rest of the graph. Additionally it is possible to create different type of problem solving intelligent agents by going with different specific rules (as they will generate very different fractal graph).
  
-> In the machine learning research community it has been noted that interesting "intelligent” unexpected behaviors occur when algorithms are scaled. Same has been said about fractal systems, 10 ants are not going to do anything sophisticated, however as more ants work together, interesting and unexpected properties emerge. During implementation it should be remembered that quality can win over quality.
+> In the machine learning research community it has been noted that interesting "intelligent” unexpected behaviors occur when algorithms are scaled. Same is being said about fractal systems, 10 ants are not going to do anything sophisticated, however as more ants work together, interesting and unexpected properties emerge. **During implementation it should be remembered that quality can win over quality**.
 
 ## Inference (reasoning through the directed graph)
-Intelligent actors infer through established association boundaries. Established inference types fall into the following classes: deduction, induction and abduction. It is believed that intelligent actors tend to use automatic induction (unconscious probabilistic generalization) and abduction (most likely available explanation at hand). These default modes of inference are limited due to intelligent actors' limited association boundaries. However, these quick and dirty techniques have allowed intelligent actors to survive in normally distributed environments for a very long period.
+Intelligent actors infer through established association boundaries. Established inference types fall into the following classes: deduction, induction and abduction. It is believed that intelligent actors tend to use automatic induction (unconscious probabilistic generalization) and abduction (most likely available explanation at hand). These default modes of inference are limited due to intelligent actors' limited association boundaries.
  
 Intelligent actors also use deduction (establishing logical conclusion based on logically true statements). Conscious deduction is the slowest type of inference as it requires an intelligent actor's active participation to build a "logical chain".
  
-It is not clear if intelligent actors cognition actually handles these three methods of inference differently, it is probabilistically unlikely that this is the case as these are artificial concepts. It is more likely that intelligent actors' cognition uses the same model for all reasoning; the only difference is actors' conscious participation.
+It is not clear if intelligent actors cognition actually handles these three methods of inference differently, it is probabilistically unlikely that this is the case as these are artificial concepts. It is more likely that intelligent actors' cognition uses one model for all reasoning; the only difference is actors' conscious participation.
 
-It is project's hypothesis that intelligent actors use deduction with faulty premises (**faulty deduction**). Faulty deduction is established by copying associations from neighbouring directed associations or by changing direction of the association. This faulty type of deduction auto-corrects and converges to an actual "relatively correct deduction" as intelligent actors probe their environment, gather more data and update and expand their associations. For this to work intelligent actors do not have to be conscious, as long as they can "sense" that they are getting closer towards reward part of the feedback loop.
+It is project's hypothesis that intelligent actors use deduction with faulty premises (**faulty deduction**). Faulty deduction is established by copying associations from neighbouring directed associations or by changing direction of the association. This faulty type of deduction auto-corrects and converges to an actual "relatively correct deduction" as intelligent actors probe their environment, gather more data and update and expand their associations. For this to work intelligent actors do not have to be **conscious**, it works as long as they can "sense" that they are getting closer towards reward part of the feedback loop.
 
 It is not clear at this point if abstraction is built into intelligent actors cognition or if it is an emergent phenomenon. At the time of writing the working hypothesis that it is an emergent property.
+
+## Routing
 
 ## Links:
 * (Spatial Neural Networks Based on Fractal Algorithms
