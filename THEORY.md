@@ -46,8 +46,12 @@ Intelligent actors also use deduction (establishing logical conclusion based on 
  
 It is not clear if intelligent actors cognition actually handles these three methods of inference differently, it is probabilistically unlikely that this is the case as these are artificial concepts. It is more likely that intelligent actors' cognition uses one model for all reasoning; the only difference is actors' conscious participation.
 
-### Faulty deduction
-It is project's hypothesis that intelligent actors use deduction with faulty premises (**faulty deduction**). Faulty deduction is established by copying associations from neighbouring directed associations or by changing direction of the association. This faulty type of deduction auto-corrects and converges to an actual "relatively correct deduction" as intelligent actors probe their environment, gather more data and **update and expand** their associations. For this to work intelligent actors do not have to be **conscious**, it works as long as they can "sense" that they are getting closer towards reward part of the feedback loop. This feedback loop ineffect makes this system Turing complete.
+### Logical adaptation from abduction 
+It is project's hypothesis that intelligent actors use deduction with faulty premises (**faulty deduction**). Faulty deduction is established by copying associations from neighbouring directed associations or by changing direction of the association. 
+
+This faulty type of deduction adapts (or fades) to an actual "relatively correct deduction" as intelligent actors probe their environment, gather more data and **update and expand** their associations. For this to work intelligent actors do not have to be **conscious**, it works as long as they can "sense" that they are getting closer towards reward part of the feedback loop. This approach is very similiar that of a Slime Mold, with added complexity. 
+
+This logical adaptation feedback loop ineffect makes this system Turing complete.
 
 
 ## Links:
