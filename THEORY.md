@@ -1,5 +1,5 @@
-# Theory - Work in progress
-This write up will refer to animals various cognitive capacities (as long as they are able to learn and adapt) as intelligent actors.
+# Theory - work in progress
+This write up will refer to animals with various cognitive capacities as intelligent actors.
 
 ## Associations Storage
 ### Encoding binary input associations in a directed graph
