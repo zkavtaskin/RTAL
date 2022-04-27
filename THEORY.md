@@ -56,16 +56,16 @@ This logical adaptation feedback loop in effect makes this system Turing complet
 
 
 ## Links:
-* (Slime Mould Algorithm)[https://en.wikiversity.org/wiki/Slime_Mould_Algorithm#:~:text=Slime%20mould%20algorithm%20(SMA)%20is,propagation%20wave%20of%20slime%20mould.]
-* (How the Brainless Slime Mold Stores Memories)[https://www.smithsonianmag.com/smart-news/how-brainless-slime-mold-stores-memories-180977097/]
-* (Spatial Neural Networks Based on Fractal Algorithms
-Biomorph Nets of Nets)[http://www.fractal.org/Life-Science-Technology/Publications/Fractal-Neural-Networks.htm]
-* (Is Deep Learning Innovation Just Due to Brute Force?)[https://medium.com/intuitionmachine/the-brute-force-method-of-deep-learning-innovation-58b497323ae5]
-* (Emergence and Complexity)[https://www.youtube.com/watch?app=desktop&v=o_ZuWbX-CyE]
-* (Your Mind Is Eight-Dimensional )[https://www.youtube.com/watch?app=desktop&v=akgU8nRNIp0&t=0s]
-* (Donald Hoffman's Fitness-Beats-Truth Theorem Explained)[https://www.youtube.com/watch?app=desktop&v=kiO2vKx6pcI]
-* (Why do we forget? New theory proposes 'forgetting' is actually a form of learning)[https://www.sciencedaily.com/releases/2022/01/220113111421.htm#:~:text=So%2C%20in%20effect%2C%20the%20scientists,access%20rather%20than%20memory%20loss]
- * (When the Brain Starts Adulting)[https://www.brainfacts.org/thinking-sensing-and-behaving/aging/2018/when-the-brain-starts-adulting-112018#:~:text=Your%20brain%20changes%20a%20lot,itself%20well%20into%20your%2020s.]
+* [Slime Mould Algorithm](https://en.wikiversity.org/wiki/Slime_Mould_Algorithm#:~:text=Slime%20mould%20algorithm%20(SMA)%20is,propagation%20wave%20of%20slime%20mould.)
+* [How the Brainless Slime Mold Stores Memories](https://www.smithsonianmag.com/smart-news/how-brainless-slime-mold-stores-memories-180977097/)
+* [Spatial Neural Networks Based on Fractal Algorithms
+Biomorph Nets of Nets](http://www.fractal.org/Life-Science-Technology/Publications/Fractal-Neural-Networks.htm)
+* [Is Deep Learning Innovation Just Due to Brute Force?](https://medium.com/intuitionmachine/the-brute-force-method-of-deep-learning-innovation-58b497323ae5)
+* [Emergence and Complexity](https://www.youtube.com/watch?app=desktop&v=o_ZuWbX-CyE)
+* [Your Mind Is Eight-Dimensional](https://www.youtube.com/watch?app=desktop&v=akgU8nRNIp0&t=0s)
+* [Donald Hoffman's Fitness-Beats-Truth Theorem Explained](https://www.youtube.com/watch?app=desktop&v=kiO2vKx6pcI)
+* [Why do we forget? New theory proposes 'forgetting' is actually a form of learning](https://www.sciencedaily.com/releases/2022/01/220113111421.htm#:~:text=So%2C%20in%20effect%2C%20the%20scientists,access%20rather%20than%20memory%20loss)
+ * [When the Brain Starts Adulting](https://www.brainfacts.org/thinking-sensing-and-behaving/aging/2018/when-the-brain-starts-adulting-112018#:~:text=Your%20brain%20changes%20a%20lot,itself%20well%20into%20your%2020s.)
  
  
 
