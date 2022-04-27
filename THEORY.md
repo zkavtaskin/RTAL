@@ -13,7 +13,7 @@ This inputs mesh is stored as a form of a directed graph. Continuous input strea
 
 (Figure 1)
 
-For reasons not fully known, encodings are stored for different lengths of time (time to live). One of the reasons that certain encodings might be stored for a longer period of time is due to how different the data input is. That is if data input is very different to previous data inputs it is stored for longer. However this is a simplification as there are many factors at play such as relative context of the data input, how often association is used and how many other associations link to this association. 
+For reasons not fully known, encodings are stored for different lengths of time (time to live). One of the reasons that certain encodings might be stored for a longer period of time is due to how different the data input is. That is if data input is very different to previous data inputs it is stored for longer. However this is a simplification as there are many factors at play such as relative context of the data input, how often association is used and how many other associations link to this association. See "Slime Mold" link for insparation. 
 
 Intelligent actors associations are subjective as they are "unique" to the actor and do not necessarily represent the actual "objective" reality that they operate in.
  
@@ -33,19 +33,26 @@ Associations might be going through an incubation period, where local associatio
  
 > In the machine learning research community it has been noted that interesting "intelligent” unexpected behaviors occur when algorithms are scaled. Same is being said about fractal systems, 10 ants are not going to do anything sophisticated, however as more ants work together, interesting and unexpected properties emerge. **During implementation it should be remembered that quality can win over quality**.
 
-## Reasoning
-### Inference, reasoning through the directed graph
+## Inference
+### Why infer at all?
+The only reason for intelligent actor needing to infer is to get some kind of output. If output was not required then actor would simply observe and not do anything. That is not say that anything that reacts to the environment is an intelligent actor such as a Venus flytrap.
+
+If (low capability) intelligent actors need reasoning only for the output (to interact with the environment) it would make sense for the fractal graph to be organised and optimised for output. 
+
+### Artificial inference classes 
 Intelligent actors infer through established association boundaries. Established inference types fall into the following classes: deduction, induction and abduction. It is believed that intelligent actors tend to use automatic induction (unconscious probabilistic generalization) and abduction (most likely available explanation at hand). These default modes of inference are limited due to intelligent actors' limited association boundaries.
  
 Intelligent actors also use deduction (establishing logical conclusion based on logically true statements). Conscious deduction is the slowest type of inference as it requires an intelligent actor's active participation to build a "logical chain".
  
 It is not clear if intelligent actors cognition actually handles these three methods of inference differently, it is probabilistically unlikely that this is the case as these are artificial concepts. It is more likely that intelligent actors' cognition uses one model for all reasoning; the only difference is actors' conscious participation.
 
-It is project's hypothesis that intelligent actors use deduction with faulty premises (**faulty deduction**). Faulty deduction is established by copying associations from neighbouring directed associations or by changing direction of the association. This faulty type of deduction auto-corrects and converges to an actual "relatively correct deduction" as intelligent actors probe their environment, gather more data and **update and expand** their associations. For this to work intelligent actors do not have to be **conscious**, it works as long as they can "sense" that they are getting closer towards reward part of the feedback loop. This feedback loop ineffect makes this system turing complete.
-
+### Faulty deduction
+It is project's hypothesis that intelligent actors use deduction with faulty premises (**faulty deduction**). Faulty deduction is established by copying associations from neighbouring directed associations or by changing direction of the association. This faulty type of deduction auto-corrects and converges to an actual "relatively correct deduction" as intelligent actors probe their environment, gather more data and **update and expand** their associations. For this to work intelligent actors do not have to be **conscious**, it works as long as they can "sense" that they are getting closer towards reward part of the feedback loop. This feedback loop ineffect makes this system Turing complete.
 
 
 ## Links:
+* (Slime Mould Algorithm)[https://en.wikiversity.org/wiki/Slime_Mould_Algorithm#:~:text=Slime%20mould%20algorithm%20(SMA)%20is,propagation%20wave%20of%20slime%20mould.]
+* (How the Brainless Slime Mold Stores Memories)[https://www.smithsonianmag.com/smart-news/how-brainless-slime-mold-stores-memories-180977097/]
 * (Spatial Neural Networks Based on Fractal Algorithms
 Biomorph Nets of Nets)[http://www.fractal.org/Life-Science-Technology/Publications/Fractal-Neural-Networks.htm]
 * (Is Deep Learning Innovation Just Due to Brute Force?)[https://medium.com/intuitionmachine/the-brute-force-method-of-deep-learning-innovation-58b497323ae5]
