@@ -35,23 +35,24 @@ Associations might be going through an incubation period, where local associatio
 
 ## Inference
 ### Why infer at all?
-The only reason for intelligent actor needing to infer is to get some kind of output. If output was not required then actor would simply observe and not do anything. That is not say that anything that reacts to the environment is an intelligent actor such as a Venus flytrap.
-
-If (low capability) intelligent actors need reasoning only for the output (to interact with the environment) it would make sense for the fractal graph to be organised and optimised for output. 
-
-### Artificial inference classes 
+The only reason for an intelligent actor needing to infer is to get some kind of output. If output was not required then the actor would simply observe and not do anything. That is not to say that anything that reacts to the environment is an intelligent actor .e.g. Venus flytrap.
+ 
+If low capability intelligent actors need reasoning only for the output, to interact with the environment. It would make sense for the fractal graph to be organised and optimised for output.
+ 
+### Artificial inference classes
 Intelligent actors infer through established association boundaries. Established inference types fall into the following classes: deduction, induction and abduction. It is believed that intelligent actors tend to use automatic induction (unconscious probabilistic generalization) and abduction (most likely available explanation at hand). These default modes of inference are limited due to intelligent actors' limited association boundaries.
+
+Intelligent actors also use deduction (establishing logical conclusions based on logically true statements). Conscious deduction is the slowest type of inference as it requires an intelligent actor's active participation to build a "logical chain".
+
+It is not clear if intelligent actors' cognition actually handles these three methods of inference differently, it is probabilistically unlikely that this is the case as these are artificial concepts. It is more likely that intelligent actors' cognition uses one model for all reasoning; the only difference is actors' conscious participation.
  
-Intelligent actors also use deduction (establishing logical conclusion based on logically true statements). Conscious deduction is the slowest type of inference as it requires an intelligent actor's active participation to build a "logical chain".
+### Logical adaptation from abduction
+It is project's hypothesis that intelligent actors use deduction with faulty premises (**faulty deduction**). Faulty deduction is established by copying associations from neighboring directed associations or by changing the direction of the association.
  
-It is not clear if intelligent actors cognition actually handles these three methods of inference differently, it is probabilistically unlikely that this is the case as these are artificial concepts. It is more likely that intelligent actors' cognition uses one model for all reasoning; the only difference is actors' conscious participation.
+This faulty type of deduction adapts (or fades) to an actual "relatively correct deduction" as intelligent actors probe their environment, gather more data and **update and expand** their associations. For this to work intelligent actors do not have to be **conscious**, it works as long as they can "sense" that they are getting closer towards reward part of the feedback loop. This approach is very similar to that of a Slime Mold, with added complexity.
+ 
+This logical adaptation feedback loop in effect makes this system Turing complete.
 
-### Logical adaptation from abduction 
-It is project's hypothesis that intelligent actors use deduction with faulty premises (**faulty deduction**). Faulty deduction is established by copying associations from neighbouring directed associations or by changing direction of the association. 
-
-This faulty type of deduction adapts (or fades) to an actual "relatively correct deduction" as intelligent actors probe their environment, gather more data and **update and expand** their associations. For this to work intelligent actors do not have to be **conscious**, it works as long as they can "sense" that they are getting closer towards reward part of the feedback loop. This approach is very similiar that of a Slime Mold, with added complexity. 
-
-This logical adaptation feedback loop ineffect makes this system Turing complete.
 
 
 ## Links:
