@@ -29,9 +29,9 @@ Memory is either stored in a cluster and then it is connected to a relevant hub.
 ### Emergent global, local and cross layer connectivity
 This project's hypothesis is that the association graph will follow specific rules and as a result form a fractal graph. By selecting the most appropriate graph specification (through testing), fractal graph should emerge that will provide encoding of associations that will power further associations and inference.
 
-Associations might be going through an incubation period, where local associations are created through trial and error. Only after a while they are then connected globally (consolidated) with the rest of the graph. Additionally it is possible to create different type of problem solving intelligent agents by going with different specific rules (as they will generate very different fractal graph).
+Associations might be going through an incubation period, where local associations are created through trial and error. Only after a while they are then connected globally (consolidated) with the rest of the graph. Additionally it is possible to create different type of problem solving intelligent agents by going with different specific greedy rules, as they will generate very different fractal graph topologies.
  
-> In the machine learning research community it has been noted that interesting "intelligent” unexpected behaviors occur when algorithms are scaled. Same is being said about fractal systems, 10 ants are not going to do anything sophisticated, however as more ants work together, interesting and unexpected properties emerge. **During implementation it should be remembered that quality can win over quality**.
+> In the machine learning research community it has been noted that interesting "intelligent” unexpected behaviors occur when algorithms are scaled. Same is being said about fractal systems, 10 ants are not going to do anything sophisticated, however as more ants work together, interesting and unexpected properties emerge. **During implementation it should be remembered that quantity can win over quality**.
 
 ## Inference
 ### Why infer at all?
