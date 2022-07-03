@@ -55,7 +55,7 @@ This logical adaptation feedback loop in effect makes this system Turing complet
 
 ## Intelligent response
 ### Output and input integration
-Working hypothesis of the output is that it contains the same underlying characteristics of the "Associations Storage" section. Additionally input and output are linked through association graph, they are not disjointed systems.
+Working hypothesis for output is that it contains the same underlying characteristics that of the "Associations Storage" section. Additionally input and output are linked through association graph, they are not disjoint graphs.
  
 While both input and output have physical constraints due to the number of variables they can process. This constraint is superficial as input, output, time, together with associations, reach astronomical permutation possibilities for environment interaction, see figure 2.
  
