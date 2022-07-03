@@ -53,7 +53,24 @@ This faulty type of deduction adapts (or fades) to an actual "relatively correct
  
 This logical adaptation feedback loop in effect makes this system Turing complete.
 
-
+## Intelligent response
+### Output and input integration
+Working hypothesis of the output is that it contains the same underlying characteristics of the "Associations Storage" section. Additionally input and output are linked through association graph, they are not disjointed systems.
+ 
+While both input and output have physical constraints due to the number of variables they can process. This constraint is superficial as input, output, time, together with associations, reach astronomical permutation possibilities for environment interaction, see figure 2.
+ 
+### Output requires work
+Intelligent actors receive input involuntarily, while producing an output (response) is something that requires an actual effort. This initial effort cannot be underestimated, imagine an intelligent actor is connected to a simple electronic device with 5 binary input ports. Actor would need to learn how to interact with the environment by sequencing and sending correct outputs:
+ 
+![](Artefacts/imgs/output.jpg)
+ 
+(Figure 2)
+ 
+This simple sequence might print on a screen "hello:)" (please ignore the binary pattern) or it might move the electronic device in a certain direction. Either way this is a huge cognitive leap for an intelligent actor as it needs to converge towards a sequence that closes the positive feedback loop. 
+ 
+Initial convergence can take time to develop and it is likely that after a number of different positive feedback loops are closed it becomes easier to discover new output permutations as there is a frame of reference in place for future positive feedback loop discovery. This goes hand in hand with the "Logical adaptation from abduction" section.
+ 
+> RTAL learning is unsupervised, to learn it can use positive feedback loop closure to classify input and output sequences that led towards a successful outcome.
 
 ## Links:
 * [Slime Mould Algorithm](https://en.wikiversity.org/wiki/Slime_Mould_Algorithm#:~:text=Slime%20mould%20algorithm%20(SMA)%20is,propagation%20wave%20of%20slime%20mould.)
