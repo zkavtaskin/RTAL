@@ -77,6 +77,7 @@ Initial convergence can take time to develop and it is likely that after a numbe
 As intelligent actors interact with their environment real-time (n) they are receiving data (D) input streams from various sources (s).
  
 ![](Artefacts/imgs/stream.jpg)
+
 (Figure 3)
  
 > The current hypothesis is that the number of input stream sources needs to be greater than one for associations to be built (more explanation is required)
@@ -84,6 +85,7 @@ As intelligent actors interact with their environment real-time (n) they are rec
 Incoming data stream may be directed by the environment or it might be directed by the intelligent actor. Data stream is used as a basis for learning, however it is not directly coupled to the "meta graph" emergence that has been mentioned throughout this write-up.
  
 ![](Artefacts/imgs/class.jpg)
+
 (Figure 4)
  
 Raw data is automatically classified if "cause and effect" is detected (more explanation is required). Intelligent actor performs X work to either confirm Y classification or to create a new Y' classification and converge towards it. To achieve Y' classification actor will need to interact with the environment.
