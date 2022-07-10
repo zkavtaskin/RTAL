@@ -72,6 +72,22 @@ Initial convergence can take time to develop and it is likely that after a numbe
  
 > RTAL learning is unsupervised, to learn it can use positive feedback loop closure to classify input and output sequences that led towards a successful outcome.
 
+## Continuous stream
+ 
+As intelligent actors interact with their environment real-time (n) they are receiving data (D) input streams from various sources (s).
+ 
+![](Artefacts/imgs/stream.jpg)
+(Figure 3)
+ 
+> The current hypothesis is that the number of input stream sources needs to be greater than one for associations to be built (more explanation is required)
+ 
+Incoming data stream may be directed by the environment or it might be directed by the intelligent actor. Data stream is used as a basis for learning, however it is not directly coupled to the "meta graph" emergence that has been mentioned throughout this write-up.
+ 
+![](Artefacts/imgs/class.jpg)
+(Figure 4)
+ 
+Raw data is automatically classified if "cause and effect" is detected (more explanation is required). Intelligent actor performs X work to either confirm Y classification or to create a new Y' classification and converge towards it. To achieve Y' classification actor will need to interact with the environment.
+
 ## Links:
 * [Slime Mould Algorithm](https://en.wikiversity.org/wiki/Slime_Mould_Algorithm#:~:text=Slime%20mould%20algorithm%20(SMA)%20is,propagation%20wave%20of%20slime%20mould.)
 * [How the Brainless Slime Mold Stores Memories](https://www.smithsonianmag.com/smart-news/how-brainless-slime-mold-stores-memories-180977097/)
