@@ -1,5 +1,5 @@
 # Theory - work in progress
-This write up will refer to animals with various cognitive capacities as intelligent actors.
+This write up will refer to animals with various cognitive capacities as intelligent actors. This write up is a cognitive self-portrait. 
 
 ## Associations Storage
 ### Encoding binary input associations in a directed graph
@@ -89,6 +89,8 @@ Incoming data stream may be directed by the environment or it might be directed 
 (Figure 4)
  
 Raw data is automatically classified if "cause and effect" is detected (more explanation is required). Intelligent actor performs X work to either confirm Y classification or to create a new Y' classification and converge towards it. To achieve Y' classification actor will need to interact with the environment.
+
+> Actor's goal is to continuously detect and revise inference. 
 
 ## Links:
 * [Slime Mould Algorithm](https://en.wikiversity.org/wiki/Slime_Mould_Algorithm#:~:text=Slime%20mould%20algorithm%20(SMA)%20is,propagation%20wave%20of%20slime%20mould.)
